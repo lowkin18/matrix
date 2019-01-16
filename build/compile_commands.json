@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/kipke/OneDrive/Documents/Programming/C_PROJECTS/matrix_math/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/unit_test.dir/includes_C.rsp -g   -o CMakeFiles\\unit_test.dir\\test\\test.c.obj   -c C:\\Users\\kipke\\OneDrive\\Documents\\Programming\\C_PROJECTS\\matrix_math\\test\\test.c",
+  "file": "C:/Users/kipke/OneDrive/Documents/Programming/C_PROJECTS/matrix_math/test/test.c"
+},
+{
+  "directory": "C:/Users/kipke/OneDrive/Documents/Programming/C_PROJECTS/matrix_math/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/unit_test.dir/includes_C.rsp -g   -o CMakeFiles\\unit_test.dir\\src\\matrix_math.c.obj   -c C:\\Users\\kipke\\OneDrive\\Documents\\Programming\\C_PROJECTS\\matrix_math\\src\\matrix_math.c",
+  "file": "C:/Users/kipke/OneDrive/Documents/Programming/C_PROJECTS/matrix_math/src/matrix_math.c"
+}
+]

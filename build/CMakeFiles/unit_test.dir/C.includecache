@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matrix_math.h
+stdio.h
+-
+
+C:/Users/kipke/OneDrive/Documents/Programming/C_PROJECTS/matrix_math/src/matrix_math.c
+matrix_math.h
+C:/Users/kipke/OneDrive/Documents/Programming/C_PROJECTS/matrix_math/src/matrix_math.h
+
